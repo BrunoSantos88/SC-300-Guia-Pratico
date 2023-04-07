@@ -22,3 +22,6 @@ Sua empresa está planejando configurar a política de risco de entrada no Azure
 R: garanta que os usuarios congigurem o MFA
 
 explicaçao: Para o risco de entrada, os usuários devem configurar a autenticação multifator
+
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/228569707-90c173a8-659f-4800-b4b7-59a2cce04dc1.png" min-width=1000px" max-width="100px" width="1000px" align="centter" alt="MFA"
