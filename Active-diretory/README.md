@@ -1,5 +1,5 @@
-# SC-300-Guia-pratico-certificação.
-Guia pratico para certificação SC-300
+
+#Guia pratico para certificação SC-300
 
 Retenção de dados do Azure Active Directory.
 
