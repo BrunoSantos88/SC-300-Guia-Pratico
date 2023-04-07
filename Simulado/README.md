@@ -269,7 +269,7 @@ Os grupos são configurados conforme mostrado na tabela a seguir.
 
 A. Grupo1 e Grupo4 apenas </p>
 B. Grupo1, Grupo2, Grupo3, Grupo4 e Grupo5 </p>
-C. Grupo 1 e Grupo 2 apenas </p> (correto)
+C. Grupo 1 e Grupo 2 apenas (correto) </p>
 D. Grupo 1 apenas </p>
 E. Grupo1, Grupo2, Grupo4 e Grupo5 apenas </p>
 
