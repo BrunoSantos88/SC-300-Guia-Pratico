@@ -1,4 +1,4 @@
-* O que é gerenciamento de direitos
+# O que é gerenciamento de direitos
 
 O Gerenciamento de Direitos é um recurso de governança de identidade que permite que as organizações gerenciem o ciclo de vida de identidade e o acesso em escala, automatizando fluxos de trabalho de solicitação de acesso, atribuições de acesso, revisões e expiração
 
