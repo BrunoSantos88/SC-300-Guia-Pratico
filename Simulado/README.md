@@ -209,4 +209,21 @@ Aqui, o servidor de política de rede pode ser usado junto com o servidor VPN pa
 
 Link: https://learn.microsoft.com/pt-br/windows-server/networking/technologies/nps/nps-top
 
+# Pergunta 20
+
+Você tem um locatário do Azure Active Directory (Azure AD) que contém um usuário chamado SecAdmin1. SecAdmin1 é atribuído à função de administrador de segurança.
+SecAdmin1 relata que ela não pode redefinir senhas do portal de proteção de identidade do Azure AD.
+Você precisa garantir que SecAdmin1 possa gerenciar senhas e invalidar sessões em nome de usuários não administrativos. A solução deve usar o princípio do menor privilégio.
+Qual função você deve atribuir a SecAdmin1?
+
+Operador de Segurança  </p>
+Autenticador de Indentificaçação Privilegiada  </p>
+Administrador de Autenticaçao (correta)   </p>
+Administrador de Helpdesk  </p>
+
+Explicação
+O Administrador de Autenticação pode acessar para visualizar, definir e redefinir informações do método de autenticação para qualquer usuário não administrador, enquanto o Administrador de Autenticação Privilegiada pode acessar para visualizar, definir e redefinir informações do método de autenticação para qualquer usuário (administrador ou não administrador).
+
+Link: https://learn.microsoft.com/pt-br/azure/active-directory/roles/permissions-reference#helpdesk-administrator
+
 
