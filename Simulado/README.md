@@ -42,9 +42,6 @@ Sua organização está considerando permitir que os funcionários trabalhem rem
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/conditional-access/what-if-too
 
-</p>
-<img src="https://user-images.githubusercontent.com/91704169/230601001-f1682831-e1b7-4c9f-8c24-42969379aa0e.jpg" max-width="100px" width="1000px" align="centter" alt="Lab04">
-
 R: Politica de acesso condicional
 
 link: https://learn.microsoft.com/pt-br/azure/active-directory/conditional-access/overview
