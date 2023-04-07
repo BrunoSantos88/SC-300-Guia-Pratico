@@ -76,3 +76,11 @@ Sua organização usa o Azure AD Entitlement Management há vários meses e voc�
 R: Catalogo
 
 Explicaçao: Um catálogo é usado para agrupar recursos de gerenciamento de direitos e políticas de acesso. Esta escolha atende às suas necessidades.
+
+#Pergunta 7
+
+Sua organização deseja implementar os Termos de Uso do Azure Active Directory para exibir informações adequadamente aos usuários e exigir aceitação antes do uso de aplicativos corporativos. Selecione as licenças abaixo que fornecem acesso aos Termos de Uso do Azure Active Directory
+
+R: E5 E3 P1 e P2
+
+
