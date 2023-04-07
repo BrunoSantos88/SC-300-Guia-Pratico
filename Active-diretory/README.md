@@ -55,3 +55,8 @@ configuraçao
 # Administrador de aplicativos
 
 link: https://learn.microsoft.com/pt-br/azure/active-directory/roles/permissions-reference
+
+
+# Administrador de Política do IEF B2C
+
+Os usuários com essa função têm a capacidade de criar, ler, atualizar e excluir todas as políticas personalizadas no Azure AD B2C e, assim, têm controle total sobre a Identity Experience Framework na organização Azure AD B2C relevante. Ao editar políticas, esse usuário pode estabelecer federação direta com provedores de identidade externos, alterar o esquema do diretório, alterar todo o conteúdo voltado para o usuário (HTML, CSS, JavaScript), alterar os requisitos para concluir uma autenticação, criar novos usuários, enviar dados do usuário para sistemas externos, incluindo migrações completas, e editar todas as informações do usuário, inclusive campos confidenciais, como senhas e números de telefone. Por outro lado, essa função não pode alterar as chaves de criptografia nem editar os segredos usados para federação na organização.
