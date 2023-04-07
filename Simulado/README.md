@@ -62,6 +62,8 @@ R: ALerta de fraude
 
 Explicaçao: Isso pode ser configurado com o uso de alertas de fraude conforme mostrado abaixo
 
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230608219-a02e11e3-1293-4e97-9fa6-6143979be272.jpg" max-width="100px" width="1000px" align="centter" alt="alertadefraude">
 
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/authentication/howto-mfa-mfasettings </p>
