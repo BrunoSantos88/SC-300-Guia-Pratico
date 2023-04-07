@@ -40,8 +40,13 @@ configuraçao
 Como posso acessá-lo?
 O relatório de atividades de auditoria está disponível em todas as edições do Azure AD. Para acessar os logs de auditoria, você precisa ter uma das seguintes funções:
 
+
 Leitor de Relatórios
 Leitor de segurança
 Administrador de Segurança
 Leitor global
 Administrador Global
+
+configuraçao 
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230627260-94a9eb3c-d893-4d74-aaab-19c20f26e136.png" max-width="100px" width="1000px" align="centter" alt="riscodeuser">
