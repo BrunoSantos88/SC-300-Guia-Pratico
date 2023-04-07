@@ -227,3 +227,19 @@ O Administrador de Autenticação pode acessar para visualizar, definir e redefi
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/roles/permissions-reference#helpdesk-administrator
 
 
+# Pergunta 21
+
+Você precisa realizar um convite em massa de usuários B2B do Azure. Qual das opções a seguir precisa ser mencionada para os usuários como parte do convite em massa? Escolha 2 respostas entre as opções abaixo
+
+Url convidado (correta) </p>
+Senha  </p>
+mensagem de convite  </p>
+Convite de calendario </p>
+Endereço de email (correta) </p>
+
+Explicação
+Ao convidar usuários em massa, você deve mencionar o endereço de e-mail e o URL do convite.
+
+Link: https://learn.microsoft.com/pt-br/azure/active-directory/external-identities/redemption-experience -->
+
+
