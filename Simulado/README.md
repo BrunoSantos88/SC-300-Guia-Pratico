@@ -161,7 +161,7 @@ Explocação: A Política What If de Acesso Condicional gera um relatório que d
 
 A Zebra Corp tem a obrigação de realizar revisões de acesso trimestrais para todos os seus 100 funcionários na Organização. Desses 100 funcionários, 3 deles são administradores de nuvem com a função de administrador global e configurarão todas as revisões de acesso. Como um dos administradores de nuvem, você precisa garantir que a Zebra Corp tenha as licenças adequadas para dar suporte a essas revisões de acesso trimestrais. Sua organização deseja que apenas o Cloud Admin execute as revisões de acesso? Quantas licenças P2 premium do Azure você deve ter?
 
-Selecionar: 1 100 97 3 0
+Selecionar: 1 - 100 - 97 - 3  - 0
 
 R: 0 
 
