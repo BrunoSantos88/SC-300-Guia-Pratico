@@ -19,7 +19,7 @@ Link: https://learn.microsoft.com/en-us/azure/active-directory/reports-monitorin
 
 Sua empresa está planejando configurar a política de risco de entrada no Azure AD Identity Protection. Qual das opções a seguir deve ser implementada primeiro para garantir que os usuários obtenham acesso após a configuração da política de risco de entrada?
 
-R: garanta que os usuarios congigurem o MFA
+R: garanta que os usuarios configurem o MFA
 
 explicaçao: Para o risco de entrada, os usuários devem configurar a autenticação multifator
 
