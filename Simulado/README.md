@@ -273,4 +273,6 @@ C. Grupo 1 e Grupo 2 apenas (correto) </p>
 D. Grupo 1 apenas </p>
 E. Grupo1, Grupo2, Grupo4 e Grupo5 apenas </p>
 
+link: https://learn.microsoft.com/pt-br/azure/active-directory/enterprise-users/licensing-group-advanced
+
 
