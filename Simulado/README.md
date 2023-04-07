@@ -30,6 +30,8 @@ explicaçao: Para o risco de entrada, os usuários devem configurar a autentica�
 
 Sua empresa está interessada em implementar um ambiente de segurança sem senha. Como arquiteto principal, você foi encarregado de pesquisar os métodos de autenticação sem senha que se integram ao Azure Active Directory. Qual das opções abaixo não é um método de autenticação válido para integração com o Azure Active Directory?
 
+
+
 R: Aplicativos microsoft azure para IOS e Android
 
 Explicação: O Aplicativo do Microsoft Azure para iOS e Android não é uma ferramenta válida para usar na integração de segurança sem senha com o Azure Active Directory. Esta escolha não atende aos seus requisitos.
@@ -51,3 +53,16 @@ R: Gerenciamento de direitos do azure AD
 Explicaçao: O Azure AD Entitlement Management é uma solução que permitirá aos administradores de nuvem criar pacotes de acesso que incluirão todas as permissões e funções necessárias para um determinado trabalho. Os consultores poderiam simplesmente solicitar acesso a esses pacotes para obter tudo o que é necessário para concluir suas tarefas diárias. Esta solução atende às suas necessidades.
 
 link: https://learn.microsoft.com/pt-br/azure/active-directory/governance/entitlement-management-overview
+
+#Pergunta 6
+
+Atualmente, sua empresa tem usuários definidos como parte de seu locatário do Azure AD. Eles desejam bloquear os usuários automaticamente sempre que relatarem solicitações de MFA que não foram iniciadas por eles. Qual das opções a seguir pode ser configurada para esse requisito?
+
+R: ALerta de fraude
+
+Explicaçao: Isso pode ser configurado com o uso de alertas de fraude conforme mostrado abaixo
+
+
+
+Link: https://learn.microsoft.com/pt-br/azure/active-directory/authentication/howto-mfa-mfasettings </p>
+Link: https://learn.microsoft.com/pt-br/partner-center/azure-fraud-notification
