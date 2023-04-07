@@ -34,7 +34,6 @@ Microsoft 365 E3  </p>
 Enterprise Mobility + Security E5 </p>
 Enterprise Mobility + Security E3 </p>
 Microsoft 365 Business Premium </p>
-Microsoft 365 F1  </p>
 Microsoft 365 F3 </p>
 Microsoft 365 Government G5 </p>
 Microsoft 365 Government G3 </p>
