@@ -87,5 +87,8 @@ Devido a uma aquisição recente da empresa, você herdou um novo locatário do 
 
 R: Ativar padroes de segurança
 
+Qual dos seguintes comandos do PowerShell é usado para fornecer aos usuários uma inscrição de autoatendimento para o Azure Active Directory?
+
+R: Set-MsolCompanySettings
 
 
