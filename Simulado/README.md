@@ -8,10 +8,8 @@ Por quanto tempo o Azure AD armazena eventos nos logs de entrada?
 
 90 dias </p>
 14 dias </p>
-30 dias </p>
+30 dias (correto) </p>
 365 dias </p>
-
-R: 30 dias
 
 Link: https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-reports-data-retention#how-long-does-azure-ad-store-the-data
 
