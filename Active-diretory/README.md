@@ -29,3 +29,5 @@ Logins arriscados	7 dias	30 dias	90 dias
 Link: https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-reports-data-retention#how-long-does-azure-ad-store-the-data
 
 # Azure-fraud-notification
+
+As notificações de fraude do Azure são limitadas à detecção de padrões de mineração de moeda cripto em recursos do Azure. As notificações de fraude do Azure não detectam todos os tipos de fraude e não têm garantia de detectar todos os tipos de mineração de moeda cripto. É fundamental que você use métodos adicionais de monitoramento para ajudar a detectar o uso anormal nas assinaturas do Azure do cliente, como orçamentos mensais de gastos do Azure. Para obter mais informações, consulte Gerenciando contas de clientes.
