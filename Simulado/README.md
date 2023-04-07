@@ -263,7 +263,7 @@ Grupos chamados Group1, Group2, Group3, Group4 e Group5
 Os grupos são configurados conforme mostrado na tabela a seguir.
 
 </p>
-<img src="https://user-images.githubusercontent.com/91704169/230601001-f1682831-e1b7-4c9f-8c24-42969379aa0e.jpg" max-width="100px" width="1000px" align="centter" alt="Lab04">
+<img src="https://user-images.githubusercontent.com/91704169/230692829-e01094f1-2a44-405e-807c-00ec254bb046.png" max-width="100px" width="1000px" align="centter" alt="Lab04">
 
 A. Grupo1 e Grupo4 apenas </p>
 B. Grupo1, Grupo2, Grupo3, Grupo4 e Grupo5 </p>
