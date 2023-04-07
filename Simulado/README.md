@@ -87,8 +87,17 @@ Devido a uma aquisição recente da empresa, você herdou um novo locatário do 
 
 R: Ativar padroes de segurança
 
+#Pergunta 8
+
 Qual dos seguintes comandos do PowerShell é usado para fornecer aos usuários uma inscrição de autoatendimento para o Azure Active Directory?
 
 R: Set-MsolCompanySettings
+
+# Pergunta 9
+
+Sua empresa está pensando em implementar o Windows Hello como parte de suas iniciativas de segurança para eliminar as senhas de usuário. Onde estão armazenados os dados biométricos usados ​​para o Windows Hello?
+
+R: Dispositivo Local
+
 
 
