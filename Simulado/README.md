@@ -83,23 +83,25 @@ Sua organização deseja implementar os Termos de Uso do Azure Active Directory 
 
 R: E5 E3 P1 e P2
 
+#Pergunta 8
+
 Devido a uma aquisição recente da empresa, você herdou um novo locatário do Azure com 1 assinatura associada que você gerencia. A segurança foi negligenciada e você está procurando uma maneira rápida e fácil de habilitar várias configurações de segurança, como exigir que os usuários se registrem para autenticação multifator, bloquear protocolos de autenticação herdados e proteger atividades privilegiadas, como acesso ao portal do Azure. Qual é a melhor maneira de impor essas configurações com o mínimo de esforço administrativo?
 
 R: Ativar padroes de segurança
 
-# Pergunta 8
+# Pergunta 9
 
 Qual dos seguintes comandos do PowerShell é usado para fornecer aos usuários uma inscrição de autoatendimento para o Azure Active Directory?
 
 R: Set-MsolCompanySettings
 
-# Pergunta 9
+# Pergunta 10
 
 Sua empresa está pensando em implementar o Windows Hello como parte de suas iniciativas de segurança para eliminar as senhas de usuário. Onde estão armazenados os dados biométricos usados ​​para o Windows Hello?
 
 R: Dispositivo Local
 
-# Pergunta 10
+# Pergunta 11
 
 Você precisa atender aos requisitos de autenticação para credenciais vazadas.
 O que você deveria fazer?
@@ -112,7 +114,7 @@ Detecções de risco, como credenciais vazadas, exigem a presença de hashes de 
 Links: https://learn.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection
 https://learn.microsoft.com/pt-br/azure/security/fundamentals/steps-secure-identity
 
-# Pergunta 11
+# Pergunta 12
 
 Sua rede contém um domínio do Active Directory local que sincroniza com um locatário do Azure Active Directory (Azure AD).
 Os usuários entram em computadores que executam o Windows 10 e estão associados ao domínio.
@@ -130,7 +132,7 @@ Além disso, você precisa habilitar uma configuração de diretiva de zona da i
 
 https://learn.microsoft.com/pt-br/azure/active-directory/saas-apps/iris-intranet-tutorial
 
-# Pergunta 12
+# Pergunta 13
 
 Você tem um locatário do Azure Active Directory (Azure AD) que usa políticas de acesso condicional.
 Você planeja usar informações de segurança e gerenciamento de eventos (SIEM) de terceiros para analisar o uso de acesso condicional.
@@ -143,7 +145,7 @@ Explicaçao: Os logs de auditoria mostram que as políticas de fato foram altera
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/reports-monitoring/concept-audit-logs
 
-# Pergunta 13
+# Pergunta 14
 
 Sua organização tem trabalhado em várias novas políticas de acesso condicional em um esforço para melhorar sua postura de segurança atual. Como administrador da nuvem, você está preocupado em habilitar várias políticas, pois não quer correr o risco de bloquear o acesso dos usuários errados aos aplicativos. Qual é a maneira mais fácil de ver o impacto de suas políticas sem afetar os usuários reais? Sua resposta deve exigir um esforço administrativo mínimo.
 
@@ -153,4 +155,3 @@ Explocação: A Política What If de Acesso Condicional gera um relatório que d
 
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230628216-e6306eae-58eb-4489-8a05-2386651ff54a.png" max-width="100px" width="1000px" align="centter" alt="Lab04">
-
