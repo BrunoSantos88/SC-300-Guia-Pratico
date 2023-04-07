@@ -6,10 +6,10 @@ Você tem um locatário do Azure Active Directory (Azure AD).
 Você precisa revisar os logs de entrada do Azure AD para investigar as entradas que ocorreram no passado.
 Por quanto tempo o Azure AD armazena eventos nos logs de entrada?
 
-90 dias
-14 dias 
-30 dias
-365 dias
+90 dias </p>
+14 dias </p>
+30 dias </p>
+365 dias </p>
 
 R: 30 dias
 
@@ -177,10 +177,10 @@ Sua empresa tem um locatário do Azure AD. Há vários usuários definidos no lo
 3) Não podem fazer uso de dispositivos móveis para autenticação
 Qual das opções a seguir pode ser usada para fins de autenticação multifator?
 
-SMS
-MFA
-Token FIDO2  (correto)
-Windows hello
+SMS </p>
+MFA </p>
+Token FIDO2  (correto) </p>
+Windows hello </p>
 
 Explicação
 Aqui, como os dados biométricos não podem ser usados, não podemos usar o Windows Hello for Business.
@@ -191,10 +191,10 @@ Os usuários podem então fazer uso de tokens FIDO2 para fins de autenticação 
 
 Sua organização deseja usar as unidades administrativas do Azure AD para restringir o acesso de seus administradores de suporte técnico para garantir que eles só possam fornecer opções de suporte para usuários em suas regiões dedicadas. Que tipo de licença é necessário para usar as unidades de administração do Azure AD. Seu objetivo é minimizar o custo ao adquirir licenças.
 
-Nivel Gratuito
-Azure AD P2
-AZURE AD P1 (correto)
-MS365 E3
+Nivel Gratuito </p>
+Azure AD P2  </p>
+AZURE AD P1 (correto) </p>
+MS365 E3 </p>
 
 Explicação
 A licença Azure AD P1 ou P2 é necessária para usar unidades administrativas. Para minimizar o custo, o Azure AD P1 seria a melhor solução.
