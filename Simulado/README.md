@@ -83,7 +83,7 @@ Sua organização deseja implementar os Termos de Uso do Azure Active Directory 
 
 R: E5 E3 P1 e P2
 
-#Pergunta 8
+# Pergunta 8
 
 Devido a uma aquisição recente da empresa, você herdou um novo locatário do Azure com 1 assinatura associada que você gerencia. A segurança foi negligenciada e você está procurando uma maneira rápida e fácil de habilitar várias configurações de segurança, como exigir que os usuários se registrem para autenticação multifator, bloquear protocolos de autenticação herdados e proteger atividades privilegiadas, como acesso ao portal do Azure. Qual é a melhor maneira de impor essas configurações com o mínimo de esforço administrativo?
 
