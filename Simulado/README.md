@@ -41,3 +41,13 @@ Sua organização está considerando permitir que os funcionários trabalhem rem
 R: Politica de acesso condicional
 
 link: https://learn.microsoft.com/pt-br/azure/active-directory/conditional-access/overview
+
+#Pergunta 5
+
+Sua organização está trabalhando com uma nova empresa de consultoria para ajudar no projeto, desenvolvimento e implantação de um novo serviço de TI. Os consultores ingressarão em sua organização em vários pontos ao longo do projeto e não saberão de quais permissões precisam ou de quem solicitar acesso. Como administrador de nuvem, o que você pode implementar para garantir que os consultores possam solicitar facilmente e obter todo o acesso de que precisam para realizar seu trabalho?
+
+R: Gerenciamento de direitos do azure AD
+
+Explicaçao: O Azure AD Entitlement Management é uma solução que permitirá aos administradores de nuvem criar pacotes de acesso que incluirão todas as permissões e funções necessárias para um determinado trabalho. Os consultores poderiam simplesmente solicitar acesso a esses pacotes para obter tudo o que é necessário para concluir suas tarefas diárias. Esta solução atende às suas necessidades.
+
+link: https://learn.microsoft.com/pt-br/azure/active-directory/governance/entitlement-management-overview
