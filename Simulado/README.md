@@ -242,4 +242,17 @@ Ao convidar usuários em massa, você deve mencionar o endereço de e-mail e o U
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/external-identities/redemption-experience -->
 
+# Pergunta 22
+
+Sua empresa deseja usar os Termos do Azure AD para fornecer aos usuários suas responsabilidades antes de utilizar aplicativos corporativos. Como administrador do Cloud, você foi encarregado de implementar os termos de uso. Qual das funções abaixo não fornece as permissões adequadas para implementar os Termos de Uso?
+
+Administrador globaç </p>
+Administrador de segurança </p>
+administrador de acesso condicional </p>
+administrador de Helpdesk (correta)
+
+Explicação
+Como administrador do Helpdesk, não inclui as permissões necessárias para implementar os Termos de Uso do Azure AD.
+
+Link: https://learn.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal
 
