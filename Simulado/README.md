@@ -289,3 +289,22 @@ D. Set-MsolDomain </p>
 
 https://docs.microsoft.com/pt-br/azure/active-directory/enterprise-users/directory-self-service-signup
 
+# Pergunta 25
+
+Você tem um locatário do Microsoft 365 que usa o domínio chamado fabrikam.com. As configurações de convite de convidado para Azure Active Directory (Azure AD) são configuradas conforme mostrado na exposição.
+
+Configuraçao abaixo.
+
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230692829-e01094f1-2a44-405e-807c-00ec254bb046.png" max-width="100px" width="1000px" align="centter" alt="Lab04">
+
+Um usuário chamado bsmith@fabrikam.com compartilha uma biblioteca de documentos do Microsoft SharePoint Online com os usuários mostrados na tabela a seguir.
+
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230692829-e01094f1-2a44-405e-807c-00ec254bb046.png" max-width="100px" width="1000px" align="centter" alt="Lab04">
+
+A. Usuário2 apenas (corrreta) </p>
+B. Usuário1 apenas </p>
+C. Usuário1 e Usuário2 apenas </p>
+D. Usuário1, Usuário2 e Usuário3 </p>
+
