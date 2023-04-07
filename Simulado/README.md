@@ -68,3 +68,11 @@ Explicaçao: Isso pode ser configurado com o uso de alertas de fraude conforme m
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/authentication/howto-mfa-mfasettings </p>
 Link: https://learn.microsoft.com/pt-br/partner-center/azure-fraud-notification
+
+#Pergunta 6
+
+Sua organização usa o Azure AD Entitlement Management há vários meses e você desenvolveu uma grande lista de vários pacotes de acesso. Devido ao número de pacotes de acesso que você possui, você precisa de uma maneira de organizar melhor os pacotes de acesso relacionados. O que você pode usar para agrupar recursos relacionados e acessar pacotes?
+
+R: Catalogo
+
+Explicaçao: Um catálogo é usado para agrupar recursos de gerenciamento de direitos e políticas de acesso. Esta escolha atende às suas necessidades.
