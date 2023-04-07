@@ -14,3 +14,9 @@ Por quanto tempo o Azure AD armazena eventos nos logs de entrada?
 R: 30 dias
 
 Link: https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-reports-data-retention#how-long-does-azure-ad-store-the-data
+
+Pergunta 2
+
+Sua empresa está planejando configurar a política de risco de entrada no Azure AD Identity Protection. Qual das opções a seguir deve ser implementada primeiro para garantir que os usuários obtenham acesso após a configuração da política de risco de entrada?
+
+R: garanta que os usuarios congigurem o MFA
