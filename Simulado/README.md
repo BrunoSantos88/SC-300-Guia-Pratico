@@ -256,3 +256,19 @@ Como administrador do Helpdesk, não inclui as permissões necessárias para imp
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal
 
+Você tem um locatário do Azure Active Directory (Azure AD) que contém os seguintes objetos:
+Um dispositivo chamado Device1
+Usuários chamados User1, User2, User3, User4 e User5
+Grupos chamados Group1, Group2, Group3, Group4 e Group5
+Os grupos são configurados conforme mostrado na tabela a seguir.
+
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230601001-f1682831-e1b7-4c9f-8c24-42969379aa0e.jpg" max-width="100px" width="1000px" align="centter" alt="Lab04">
+
+A. Grupo1 e Grupo4 apenas </p>
+B. Grupo1, Grupo2, Grupo3, Grupo4 e Grupo5 </p>
+C. Grupo 1 e Grupo 2 apenas </p> (correto)
+D. Grupo 1 apenas </p>
+E. Grupo1, Grupo2, Grupo4 e Grupo5 apenas </p>
+
+
