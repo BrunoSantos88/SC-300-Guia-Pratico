@@ -143,3 +143,11 @@ Explicaçao: Os logs de auditoria mostram que as políticas de fato foram altera
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/reports-monitoring/concept-audit-logs
 
+# Pergunta 13
+
+Sua organização tem trabalhado em várias novas políticas de acesso condicional em um esforço para melhorar sua postura de segurança atual. Como administrador da nuvem, você está preocupado em habilitar várias políticas, pois não quer correr o risco de bloquear o acesso dos usuários errados aos aplicativos. Qual é a maneira mais fácil de ver o impacto de suas políticas sem afetar os usuários reais? Sua resposta deve exigir um esforço administrativo mínimo.
+
+R: User politica de What If de Acesso Condicional
+
+Explocação: A Política What If de Acesso Condicional gera um relatório que detalha o impacto da política de acesso condicional caso ela esteja em execução. Esta é uma maneira de baixo esforço administrativo para testar suas políticas de acesso condicional.
+
