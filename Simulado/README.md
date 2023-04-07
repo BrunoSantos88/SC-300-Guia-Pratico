@@ -40,8 +40,6 @@ Explicação: O Aplicativo do Microsoft Azure para iOS e Android não é uma fer
 
 Sua organização está considerando permitir que os funcionários trabalhem remotamente e usem seus próprios dispositivos para acessar muitos dos recursos da organização. No entanto, para ajudar a proteger contra possíveis perdas de dados, sua organização precisa garantir que apenas aplicativos aprovados possam ser usados ​​para acessar os dados da empresa. O que você pode configurar para atender a esse requisito?
 
-Link: https://learn.microsoft.com/pt-br/azure/active-directory/conditional-access/what-if-too
-
 R: Politica de acesso condicional
 
 link: https://learn.microsoft.com/pt-br/azure/active-directory/conditional-access/overview
