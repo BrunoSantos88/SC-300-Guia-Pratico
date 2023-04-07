@@ -50,3 +50,7 @@ Administrador Global
 configuraçao 
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230627260-94a9eb3c-d893-4d74-aaab-19c20f26e136.png" max-width="100px" width="1000px" align="centter" alt="riscodeuser">
+
+$ Funções internas do Azure AD
+
+link: https://learn.microsoft.com/pt-br/azure/active-directory/roles/permissions-reference
