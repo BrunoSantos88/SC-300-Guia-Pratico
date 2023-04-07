@@ -167,3 +167,34 @@ R: 0
 
 Explicação
 Como o Cloud Admin, que tem a função de administrador global, realizará todas as revisões de acesso, você não precisará de nenhuma licença do Azure AD Premium P2. O administrador global e o administrador do usuário não precisam ter uma licença P2 premium do Azure AD para configurar as revisões de acesso, fazer alterações de configuração ou aplicar decisões das revisões de acesso
+
+# Pergunta 17
+
+Sua empresa tem um locatário do Azure AD. Há vários usuários definidos no locatário. Há um determinado grupo de usuários que precisam ser registrados para autenticação multifator. Abaixo estão as restrições que eles têm
+
+1) A maioria dos usuários compartilha computadores e pode entrar em diferentes sistemas diariamente
+2) Os sistemas do cliente não estão habilitados para lidar com dados biométricos
+3) Não podem fazer uso de dispositivos móveis para autenticação
+Qual das opções a seguir pode ser usada para fins de autenticação multifator?
+
+SMS
+MFA
+Token FIDO2  (correto)
+Windows hello
+
+Explicação
+Aqui, como os dados biométricos não podem ser usados, não podemos usar o Windows Hello for Business.
+Como os dispositivos móveis não são permitidos, não podemos usar o Microsoft Authenticator App ou SMS
+Os usuários podem então fazer uso de tokens FIDO2 para fins de autenticação multifator
+
+# Pergunta 18
+
+Sua organização deseja usar as unidades administrativas do Azure AD para restringir o acesso de seus administradores de suporte técnico para garantir que eles só possam fornecer opções de suporte para usuários em suas regiões dedicadas. Que tipo de licença é necessário para usar as unidades de administração do Azure AD. Seu objetivo é minimizar o custo ao adquirir licenças.
+
+Nivel Gratuito
+Azure AD P2
+AZURE AD P1 (correto)
+MS365 E3
+
+Explicação
+A licença Azure AD P1 ou P2 é necessária para usar unidades administrativas. Para minimizar o custo, o Azure AD P1 seria a melhor solução.
