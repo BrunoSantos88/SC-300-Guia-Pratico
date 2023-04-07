@@ -1,7 +1,7 @@
 
 #Guia pratico para certificação SC-300
 
-Retenção de dados do Azure Active Directory.
+# Retenção de dados do Azure Active Directory.
 
 Quando o Azure AD começa a coletar dados?
 Edição do Azure AD	Início da coleta
