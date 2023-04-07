@@ -256,6 +256,8 @@ Como administrador do Helpdesk, não inclui as permissões necessárias para imp
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal
 
+
+# Pergunta 23
 Você tem um locatário do Azure Active Directory (Azure AD) que contém os seguintes objetos:
 Um dispositivo chamado Device1
 Usuários chamados User1, User2, User3, User4 e User5
