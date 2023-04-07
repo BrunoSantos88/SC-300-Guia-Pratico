@@ -40,3 +40,11 @@ Microsoft 365 Government G3 </p>
 Microsoft Intune para educação </p>
 
 Link: https://learn.microsoft.com/pt-br/mem/intune/fundamentals/licenses
+
+# Enterprise Mobility + Security
+O que é o Enterprise Mobility + Security?
+O Microsoft Enterprise Mobility + Security fornece uma solução de segurança orientada por identidade que oferece uma abordagem holística aos desafios de segurança nessa era de foco em dispositivos móveis e na nuvem. Nossas tecnologias ajudam a proteger sua organização e identificam violações antes que possam causar danos.
+
+O Enterprise Mobility + Security E3 inclui Azure Active Directory Premium P1, Microsoft Intune, Proteção de Informações do Azure P1, Microsoft Advanced Threat Analytics, Azure Rights Management (parte da Proteção de Informações do Azure) e os direitos de CAL do Windows Server.
+
+O Enterprise Mobility + Security E5 inclui todos os recursos do Enterprise Mobility + Security E3 mais Azure Active Directory Premium (AADP) P2, Proteção de Informações do Azure P2, Microsoft Cloud App Security, Azure Active Directory [AD] Identity Protection (como recurso do AADP P2), Proteção Avançada contra Ameaças do Azure, Azure AD Privileged Identity Management (como recurso do AADP P2).
