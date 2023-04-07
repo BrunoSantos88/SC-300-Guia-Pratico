@@ -156,3 +156,6 @@ R: User politica de What If de Acesso Condicional
 
 Explocação: A Política What If de Acesso Condicional gera um relatório que detalha o impacto da política de acesso condicional caso ela esteja em execução. Esta é uma maneira de baixo esforço administrativo para testar suas políticas de acesso condicional.
 
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230601001-f1682831-e1b7-4c9f-8c24-42969379aa0e.jpg" max-width="100px" width="1000px" align="centter" alt="Lab04">
+
