@@ -65,4 +65,8 @@ Os usuários com essa função têm a capacidade de criar, ler, atualizar e excl
 
 Gerencia as solicitações do Sistema de Proteção de Dados do Cliente do Microsoft Purview na sua organização. O aprovador recebe notificações de solicitações do Sistema de Proteção de Dados do Cliente por email e pode aprovar e negar solicitações do Centro de administração do Microsoft 365. Ele também pode ligar ou desligar o recurso Sistema de Proteção de Dados do Cliente. Somente os Administradores Globais podem redefinir as senhas das pessoas atribuídas à função acima.
 
+# Administrador Global
+
+Os usuários com essa função têm acesso a todos os recursos administrativos do Azure Active Directory, bem como aos serviços que usam identidades do Azure Active Directory como o portal do Microsoft 365 Defender, o portal de conformidade do Microsoft 365, Exchange Online, SharePoint Online e Skype for Business Online. Os administradores globais podem exibir logs de atividades de diretório. Além disso, Administradores Globais podem elevar seu acesso para gerenciar todas as assinaturas e grupos de gerenciamento do Azure. Isso permite que os Administradores Globais obtenham acesso completo a todos os recursos do Azure, usando o respectivo locatário do Azure AD. A pessoa que se inscreve na organização do Azure AD se torna um Administrador Global. Pode haver mais de um Administrador Global na sua empresa. Administradores Globais podem redefinir a senha para qualquer usuário e todos os outros administradores. Um Administrador Global não pode remover sua própria atribuição de Administrador Global. Isso serve para evitar uma situação em que uma organização não tenha Administradores Globais.
+
 
