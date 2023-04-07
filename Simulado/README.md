@@ -93,7 +93,7 @@ Qual dos seguintes comandos do PowerShell é usado para fornecer aos usuários u
 
 R: Set-MsolCompanySettings
 
-# Pergunta 9
+#Pergunta 9
 
 Sua empresa está pensando em implementar o Windows Hello como parte de suas iniciativas de segurança para eliminar as senhas de usuário. Onde estão armazenados os dados biométricos usados ​​para o Windows Hello?
 
