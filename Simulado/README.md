@@ -156,3 +156,14 @@ Explocação: A Política What If de Acesso Condicional gera um relatório que d
 
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230628216-e6306eae-58eb-4489-8a05-2386651ff54a.png" max-width="100px" width="1000px" align="centter" alt="Lab04">
+
+# Pergunta 16
+
+A Zebra Corp tem a obrigação de realizar revisões de acesso trimestrais para todos os seus 100 funcionários na Organização. Desses 100 funcionários, 3 deles são administradores de nuvem com a função de administrador global e configurarão todas as revisões de acesso. Como um dos administradores de nuvem, você precisa garantir que a Zebra Corp tenha as licenças adequadas para dar suporte a essas revisões de acesso trimestrais. Sua organização deseja que apenas o Cloud Admin execute as revisões de acesso? Quantas licenças P2 premium do Azure você deve ter?
+
+Selecionar: 1 100 97 3 0
+
+R: 0 
+
+Explicação
+Como o Cloud Admin, que tem a função de administrador global, realizará todas as revisões de acesso, você não precisará de nenhuma licença do Azure AD Premium P2. O administrador global e o administrador do usuário não precisam ter uma licença P2 premium do Azure AD para configurar as revisões de acesso, fazer alterações de configuração ou aplicar decisões das revisões de acesso
