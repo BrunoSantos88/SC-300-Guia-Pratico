@@ -69,7 +69,7 @@ Explicaçao: Isso pode ser configurado com o uso de alertas de fraude conforme m
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/authentication/howto-mfa-mfasettings </p>
 Link: https://learn.microsoft.com/pt-br/partner-center/azure-fraud-notification
 
-# Pergunta 6
+# Pergunta 7
 
 Sua organização usa o Azure AD Entitlement Management há vários meses e você desenvolveu uma grande lista de vários pacotes de acesso. Devido ao número de pacotes de acesso que você possui, você precisa de uma maneira de organizar melhor os pacotes de acesso relacionados. O que você pode usar para agrupar recursos relacionados e acessar pacotes?
 
@@ -77,31 +77,31 @@ R: Catalogo
 
 Explicaçao: Um catálogo é usado para agrupar recursos de gerenciamento de direitos e políticas de acesso. Esta escolha atende às suas necessidades.
 
-# Pergunta 7
+# Pergunta 8
 
 Sua organização deseja implementar os Termos de Uso do Azure Active Directory para exibir informações adequadamente aos usuários e exigir aceitação antes do uso de aplicativos corporativos. Selecione as licenças abaixo que fornecem acesso aos Termos de Uso do Azure Active Directory
 
 R: E5 E3 P1 e P2
 
-# Pergunta 8
+# Pergunta 9
 
 Devido a uma aquisição recente da empresa, você herdou um novo locatário do Azure com 1 assinatura associada que você gerencia. A segurança foi negligenciada e você está procurando uma maneira rápida e fácil de habilitar várias configurações de segurança, como exigir que os usuários se registrem para autenticação multifator, bloquear protocolos de autenticação herdados e proteger atividades privilegiadas, como acesso ao portal do Azure. Qual é a melhor maneira de impor essas configurações com o mínimo de esforço administrativo?
 
 R: Ativar padroes de segurança
 
-# Pergunta 9
+# Pergunta 10
 
 Qual dos seguintes comandos do PowerShell é usado para fornecer aos usuários uma inscrição de autoatendimento para o Azure Active Directory?
 
 R: Set-MsolCompanySettings
 
-# Pergunta 10
+# Pergunta 11
 
 Sua empresa está pensando em implementar o Windows Hello como parte de suas iniciativas de segurança para eliminar as senhas de usuário. Onde estão armazenados os dados biométricos usados ​​para o Windows Hello?
 
 R: Dispositivo Local
 
-# Pergunta 11
+# Pergunta 12
 
 Você precisa atender aos requisitos de autenticação para credenciais vazadas.
 O que você deveria fazer?
@@ -114,7 +114,7 @@ Detecções de risco, como credenciais vazadas, exigem a presença de hashes de 
 Links: https://learn.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection
 https://learn.microsoft.com/pt-br/azure/security/fundamentals/steps-secure-identity
 
-# Pergunta 12
+# Pergunta 13
 
 Sua rede contém um domínio do Active Directory local que sincroniza com um locatário do Azure Active Directory (Azure AD).
 Os usuários entram em computadores que executam o Windows 10 e estão associados ao domínio.
@@ -132,7 +132,7 @@ Além disso, você precisa habilitar uma configuração de diretiva de zona da i
 
 https://learn.microsoft.com/pt-br/azure/active-directory/saas-apps/iris-intranet-tutorial
 
-# Pergunta 13
+# Pergunta 14
 
 Você tem um locatário do Azure Active Directory (Azure AD) que usa políticas de acesso condicional.
 Você planeja usar informações de segurança e gerenciamento de eventos (SIEM) de terceiros para analisar o uso de acesso condicional.
@@ -145,7 +145,7 @@ Explicaçao: Os logs de auditoria mostram que as políticas de fato foram altera
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/reports-monitoring/concept-audit-logs
 
-# Pergunta 14
+# Pergunta 15
 
 Sua organização tem trabalhado em várias novas políticas de acesso condicional em um esforço para melhorar sua postura de segurança atual. Como administrador da nuvem, você está preocupado em habilitar várias políticas, pois não quer correr o risco de bloquear o acesso dos usuários errados aos aplicativos. Qual é a maneira mais fácil de ver o impacto de suas políticas sem afetar os usuários reais? Sua resposta deve exigir um esforço administrativo mínimo.
 
