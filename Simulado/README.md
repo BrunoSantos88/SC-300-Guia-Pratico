@@ -1,6 +1,6 @@
 # Simulado SC-300
 
-Pergunta 1
+#Pergunta 1
 
 Você tem um locatário do Azure Active Directory (Azure AD).
 Você precisa revisar os logs de entrada do Azure AD para investigar as entradas que ocorreram no passado.
@@ -15,7 +15,7 @@ R: 30 dias
 
 Link: https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-reports-data-retention#how-long-does-azure-ad-store-the-data
 
-Pergunta 2
+#Pergunta 2
 
 Sua empresa está planejando configurar a política de risco de entrada no Azure AD Identity Protection. Qual das opções a seguir deve ser implementada primeiro para garantir que os usuários obtenham acesso após a configuração da política de risco de entrada?
 
@@ -26,7 +26,7 @@ explicaçao: Para o risco de entrada, os usuários devem configurar a autentica�
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230601001-f1682831-e1b7-4c9f-8c24-42969379aa0e.jpg" max-width="100px" width="1000px" align="centter" alt="Lab04">
 
-Pergunta 3
+#Pergunta 3
 
 Sua empresa está interessada em implementar um ambiente de segurança sem senha. Como arquiteto principal, você foi encarregado de pesquisar os métodos de autenticação sem senha que se integram ao Azure Active Directory. Qual das opções abaixo não é um método de autenticação válido para integração com o Azure Active Directory?
 
@@ -34,7 +34,7 @@ R: Aplicativos microsoft azure para IOS e Android
 
 Explicação: O Aplicativo do Microsoft Azure para iOS e Android não é uma ferramenta válida para usar na integração de segurança sem senha com o Azure Active Directory. Esta escolha não atende aos seus requisitos.
 
-Pergunta 4
+#Pergunta 4
 
 Sua organização está considerando permitir que os funcionários trabalhem remotamente e usem seus próprios dispositivos para acessar muitos dos recursos da organização. No entanto, para ajudar a proteger contra possíveis perdas de dados, sua organização precisa garantir que apenas aplicativos aprovados possam ser usados ​​para acessar os dados da empresa. O que você pode configurar para atender a esse requisito?
 
