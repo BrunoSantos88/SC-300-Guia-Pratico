@@ -172,9 +172,9 @@ Como o Cloud Admin, que tem a função de administrador global, realizará todas
 
 Sua empresa tem um locatário do Azure AD. Há vários usuários definidos no locatário. Há um determinado grupo de usuários que precisam ser registrados para autenticação multifator. Abaixo estão as restrições que eles têm
 
-1) A maioria dos usuários compartilha computadores e pode entrar em diferentes sistemas diariamente
-2) Os sistemas do cliente não estão habilitados para lidar com dados biométricos
-3) Não podem fazer uso de dispositivos móveis para autenticação
+A maioria dos usuários compartilha computadores e pode entrar em diferentes sistemas diariamente
+Os sistemas do cliente não estão habilitados para lidar com dados biométricos
+Não podem fazer uso de dispositivos móveis para autenticação
 Qual das opções a seguir pode ser usada para fins de autenticação multifator?
 
 SMS </p>
