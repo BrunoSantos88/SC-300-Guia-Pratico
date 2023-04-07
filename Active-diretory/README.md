@@ -27,3 +27,5 @@ Logins arriscados	7 dias	30 dias	90 dias
 
 
 Link: https://learn.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-reports-data-retention#how-long-does-azure-ad-store-the-data
+
+# Azure-fraud-notification
