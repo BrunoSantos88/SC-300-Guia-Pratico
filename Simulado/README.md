@@ -130,3 +130,16 @@ Além disso, você precisa habilitar uma configuração de diretiva de zona da i
 
 https://learn.microsoft.com/pt-br/azure/active-directory/saas-apps/iris-intranet-tutorial
 
+# Pergunta 12
+
+Você tem um locatário do Azure Active Directory (Azure AD) que usa políticas de acesso condicional.
+Você planeja usar informações de segurança e gerenciamento de eventos (SIEM) de terceiros para analisar o uso de acesso condicional.
+Você precisa baixar o log do Azure AD usando o portal administrativo. O arquivo de log deve conter alterações nas políticas de acesso condicional.
+O que você deve exportar do Azure AD?
+
+R: Logs de auditoria no formato Json
+
+Explicaçao: Os logs de auditoria mostram que as políticas de fato foram alteradas (testadas no locatário), apenas os logins mostram que o acesso foi concedido/negado
+
+Link: https://learn.microsoft.com/pt-br/azure/active-directory/reports-monitoring/concept-audit-logs
+
