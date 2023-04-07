@@ -24,4 +24,4 @@ R: garanta que os usuarios congigurem o MFA
 explicaçao: Para o risco de entrada, os usuários devem configurar a autenticação multifator
 
 </p>
-<img src="https://user-images.githubusercontent.com/91704169/230601001-f1682831-e1b7-4c9f-8c24-42969379aa0e.jpg" min-width=1000px" max-width="100px" width="1000px" align="centter" alt="MFA"
+<img src="https://user-images.githubusercontent.com/91704169/228549661-8687ed46-4ab1-4002-8964-dd282877e9bd.png" min-width=1000px" max-width="100px" width="1000px" align="centter" alt="Lab04">
