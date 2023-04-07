@@ -35,3 +35,13 @@ As notificações de fraude do Azure são limitadas à detecção de padrões de
 configuraçao 
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230609836-fef57a64-1c68-49bb-a829-9f58dd98f20e.png" max-width="100px" width="1000px" align="centter" alt="riscodeuser">
+
+#Logs de auditoria no Azure Active Directory
+Como posso acessá-lo?
+O relatório de atividades de auditoria está disponível em todas as edições do Azure AD. Para acessar os logs de auditoria, você precisa ter uma das seguintes funções:
+
+Leitor de Relatórios
+Leitor de segurança
+Administrador de Segurança
+Leitor global
+Administrador Global
