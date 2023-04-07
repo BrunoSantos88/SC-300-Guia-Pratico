@@ -112,5 +112,18 @@ Detecções de risco, como credenciais vazadas, exigem a presença de hashes de 
 Links: https://learn.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection
 https://learn.microsoft.com/pt-br/azure/security/fundamentals/steps-secure-identity
 
+# Pergunta 11
 
+Sua rede contém um domínio do Active Directory local que sincroniza com um locatário do Azure Active Directory (Azure AD).
+Os usuários entram em computadores que executam o Windows 10 e estão associados ao domínio.
+Você planeja implementar o logon único contínuo do Azure AD (SSO contínuo do Azure AD).
+Você precisa configurar os computadores com Windows 10 para dar suporte ao Azure AD Contínuo SSO.
+O que você deveria fazer?
+
+R: Modifique opçoes de zonda da Intranet
+
+Explicaçao: Você pode distribuir gradualmente o SSO Contínuo para seus usuários usando as instruções fornecidas abaixo. Você começa adicionando a seguinte URL do Azure AD a todas as configurações de zona de intranet ou usuários selecionados usando a política de grupo no Active Directory:
+
+https://learn.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sso-quick-start
+https://learn.microsoft.com/pt-br/azure/active-directory/saas-apps/iris-intranet-tutorial
 
