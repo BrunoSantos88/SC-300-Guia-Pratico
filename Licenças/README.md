@@ -29,15 +29,15 @@ Os planos a seguir estão disponíveis para Microsoft Intune. Para obter mais in
 Microsoft Intune Plano 1
 Uma solução de gerenciamento de ponto de extremidade unificado baseada em nuvem incluída nas seguintes licenças:
 
-Microsoft 365 E5
-Microsoft 365 E3
-Enterprise Mobility + Security E5
-Enterprise Mobility + Security E3
-Microsoft 365 Business Premium
-Microsoft 365 F1
-Microsoft 365 F3
-Microsoft 365 Government G5
-Microsoft 365 Government G3
-Microsoft Intune para educação
+Microsoft 365 E5 </p>
+Microsoft 365 E3  </p>
+Enterprise Mobility + Security E5 </p>
+Enterprise Mobility + Security E3 </p>
+Microsoft 365 Business Premium </p>
+Microsoft 365 F1  </p>
+Microsoft 365 F3 </p>
+Microsoft 365 Government G5 </p>
+Microsoft 365 Government G3 </p>
+Microsoft Intune para educação </p>
 
 Link: https://learn.microsoft.com/pt-br/mem/intune/fundamentals/licenses
