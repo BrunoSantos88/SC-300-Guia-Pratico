@@ -275,4 +275,17 @@ E. Grupo1, Grupo2, Grupo4 e Grupo5 apenas </p>
 
 link: https://learn.microsoft.com/pt-br/azure/active-directory/enterprise-users/licensing-group-advanced
 
+# Pergunta 24
+Você tem uma organização do Microsoft Exchange que usa um espaço de endereço SMTP de contoso.com.
+Vários usuários usam seu endereço de email contoso.com para inscrição de autoatendimento no Azure Active Directory (Azure AD).
+Você obtém privilégios de administrador global para o locatário do Azure AD que contém os usuários autoassinados.
+Você precisa impedir que os usuários criem contas de usuário no locatário contoso.com do Azure AD para inscrição de autoatendimento nos serviços do Microsoft 365.
+Qual cmdlet do PowerShell você deve executar?
+
+A. Set-MsolCompanySettings (correta) </p>
+B. Set-MsolDomainFederationSettings </p>
+C. Update-MsolfederatedDomain </p>
+D. Set-MsolDomain </p>
+
+https://docs.microsoft.com/pt-br/azure/active-directory/enterprise-users/directory-self-service-signup
 
