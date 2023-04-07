@@ -99,5 +99,18 @@ Sua empresa está pensando em implementar o Windows Hello como parte de suas ini
 
 R: Dispositivo Local
 
+# Pergunta 10
+
+Você precisa atender aos requisitos de autenticação para credenciais vazadas.
+O que você deveria fazer?
+
+R: Habilite Sicronizaçao de Hash de senha do Azure AD.
+
+Explicaçao: Habilite a sincronização de hash de senha no Azure AD Connect.
+Detecções de risco, como credenciais vazadas, exigem a presença de hashes de senha para que ocorra a detecção
+
+Links: https://learn.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection
+https://learn.microsoft.com/pt-br/azure/security/fundamentals/steps-secure-identity
+
 
 
