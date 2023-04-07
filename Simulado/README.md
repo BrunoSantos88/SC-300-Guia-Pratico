@@ -25,3 +25,11 @@ explicaçao: Para o risco de entrada, os usuários devem configurar a autentica�
 
 </p>
 <img src="https://user-images.githubusercontent.com/91704169/230601001-f1682831-e1b7-4c9f-8c24-42969379aa0e.jpg" max-width="100px" width="1000px" align="centter" alt="Lab04">
+
+Pergunta 3
+
+Sua empresa está interessada em implementar um ambiente de segurança sem senha. Como arquiteto principal, você foi encarregado de pesquisar os métodos de autenticação sem senha que se integram ao Azure Active Directory. Qual das opções abaixo não é um método de autenticação válido para integração com o Azure Active Directory?
+
+R: Aplicativos microsoft azure para IOS e Android
+
+Explicação: O Aplicativo do Microsoft Azure para iOS e Android não é uma ferramenta válida para usar na integração de segurança sem senha com o Azure Active Directory. Esta escolha não atende aos seus requisitos.
