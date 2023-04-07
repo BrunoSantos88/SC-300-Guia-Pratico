@@ -9,3 +9,5 @@ Este artigo descreve como os usuários convidados podem acessar seus recursos e 
 
 # Resgate por meio de um link direto
 # Resgate por meio de email de convite
+
+Link: https://learn.microsoft.com/pt-br/azure/active-directory/external-identities/redemption-experience
