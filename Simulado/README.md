@@ -196,3 +196,17 @@ MS365 E3 </p>
 
 Explicação
 A licença Azure AD P1 ou P2 é necessária para usar unidades administrativas. Para minimizar o custo, o Azure AD P1 seria a melhor solução.
+
+# Pergunta 19
+
+Sua empresa tem um locatário do Azure AD. O Azure AD Connect está sendo usado para sincronizar os usuários da instância do Active Directory local para o Azure AD.
+A empresa possui um servidor VPN local. O servidor VPN não oferece suporte à autenticação multifator. Qual das opções a seguir pode ser usada para garantir que a autenticação multifator do Azure possa ser usada para conexões VPN?
+
+R: NPS Servidores politica de Redes
+
+Explicação
+Aqui, o servidor de política de rede pode ser usado junto com o servidor VPN para oferecer autenticação multifator.
+
+Link: https://learn.microsoft.com/pt-br/windows-server/networking/technologies/nps/nps-top
+
+
