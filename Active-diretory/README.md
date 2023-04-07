@@ -31,3 +31,7 @@ Link: https://learn.microsoft.com/en-us/azure/active-directory/reports-monitorin
 # Azure-fraud-notification
 
 As notificações de fraude do Azure são limitadas à detecção de padrões de mineração de moeda cripto em recursos do Azure. As notificações de fraude do Azure não detectam todos os tipos de fraude e não têm garantia de detectar todos os tipos de mineração de moeda cripto. É fundamental que você use métodos adicionais de monitoramento para ajudar a detectar o uso anormal nas assinaturas do Azure do cliente, como orçamentos mensais de gastos do Azure. Para obter mais informações, consulte Gerenciando contas de clientes.
+
+configuraçao 
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230609836-fef57a64-1c68-49bb-a829-9f58dd98f20e.png" max-width="100px" width="1000px" align="centter" alt="riscodeuser">
