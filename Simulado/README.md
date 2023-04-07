@@ -112,6 +112,7 @@ Explicaçao: Habilite a sincronização de hash de senha no Azure AD Connect.
 Detecções de risco, como credenciais vazadas, exigem a presença de hashes de senha para que ocorra a detecção
 
 Links: https://learn.microsoft.com/pt-br/azure/active-directory/identity-protection/overview-identity-protection
+
 https://learn.microsoft.com/pt-br/azure/security/fundamentals/steps-secure-identity
 
 # Pergunta 13
