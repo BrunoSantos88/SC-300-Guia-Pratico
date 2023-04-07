@@ -127,5 +127,6 @@ Explicaçao: Você pode distribuir gradualmente o SSO Contínuo para seus usuár
 https://learn.microsoft.com/pt-br/azure/active-directory/hybrid/how-to-connect-sso-quick-start
 
 Além disso, você precisa habilitar uma configuração de diretiva de zona da intranet chamada Permitir atualizações na barra de status via script por meio da diretiva de grupo.
+
 https://learn.microsoft.com/pt-br/azure/active-directory/saas-apps/iris-intranet-tutorial
 
