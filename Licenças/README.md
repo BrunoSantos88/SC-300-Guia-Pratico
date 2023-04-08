@@ -24,7 +24,7 @@ O Office 365 E5 é um conjunto de aplicativos de produtividade do Microsoft 365 
 • Proteja sua organização contra ameaças mal-intencionadas causadas por mensagens de email, links (URLs) e ferramentas de colaboração.
 • Avalie seus riscos de conformidade, controle e proteja dados confidenciais e responda com eficácia aos requisitos normativos.
 
-# Microsoft Intune
+# Licença com Microsoft Intune
 Os planos a seguir estão disponíveis para Microsoft Intune. Para obter mais informações sobre os planos e preços, consulte Descobrir Microsoft Intune Planos e Preços.
 Microsoft Intune Plano 1
 Uma solução de gerenciamento de ponto de extremidade unificado baseada em nuvem incluída nas seguintes licenças:
