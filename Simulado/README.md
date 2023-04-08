@@ -246,7 +246,7 @@ Link: https://learn.microsoft.com/pt-br/azure/active-directory/external-identiti
 
 Sua empresa deseja usar os Termos do Azure AD para fornecer aos usuários suas responsabilidades antes de utilizar aplicativos corporativos. Como administrador do Cloud, você foi encarregado de implementar os termos de uso. Qual das funções abaixo não fornece as permissões adequadas para implementar os Termos de Uso?
 
-Administrador globaç </p>
+Administrador global </p>
 Administrador de segurança </p>
 administrador de acesso condicional </p>
 administrador de Helpdesk (correta)
