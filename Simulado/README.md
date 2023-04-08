@@ -296,7 +296,7 @@ Você tem um locatário do Microsoft 365 que usa o domínio chamado fabrikam.com
 Configuraçao abaixo.
 
 </p>
-<img src="https://user-images.githubusercontent.com/91704169/230692829-e01094f1-2a44-405e-807c-00ec254bb046.png" max-width="100px" width="1000px" align="centter" alt="Lab04">
+<img src="https://user-images.githubusercontent.com/91704169/230694067-dede2ece-ca2f-45d0-8bb8-833d75312ff7.jpg" max-width="100px" width="1000px" align="centter" alt="Lab04">
 
 Um usuário chamado bsmith@fabrikam.com compartilha uma biblioteca de documentos do Microsoft SharePoint Online com os usuários mostrados na tabela a seguir.
 
