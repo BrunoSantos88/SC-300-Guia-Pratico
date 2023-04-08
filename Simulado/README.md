@@ -309,3 +309,18 @@ C. Usuário1 e Usuário2 apenas </p>
 D. Usuário1, Usuário2 e Usuário3 </p>
 
 Link: https://learn.microsoft.com/pt-br/azure/active-directory/external-identities/one-time-passcode
+
+# Pergunta 26
+
+Você tem um locatário do Azure Active Directory (Azure AD) que contém os objetos mostrados na tabela a seguir.
+
+</p>
+<img src="https://user-images.githubusercontent.com/91704169/230694704-18f158f3-f991-45c4-bc2b-7cf094edd0ab.png" max-width="100px" width="1000px" align="centter" alt="Lab04">
+Quais objetos você pode adicionar como membros ao Group3?
+
+A. User2 e Group2 apenas </p>
+B. Usuário2, Grupo1 e Grupo2 somente </p>
+C. Usuário1, Usuário2, Grupo1 e Grupo2 </p>
+D. Usuário1 e Usuário2 apenas </p>
+E. Usuário2 somente (correta)  </p>
+
