@@ -308,3 +308,4 @@ B. Usuário1 apenas </p>
 C. Usuário1 e Usuário2 apenas </p>
 D. Usuário1, Usuário2 e Usuário3 </p>
 
+Link: https://learn.microsoft.com/pt-br/azure/active-directory/external-identities/one-time-passcode
