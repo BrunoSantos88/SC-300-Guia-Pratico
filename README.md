@@ -6,6 +6,14 @@ Link: https://learn.microsoft.com/pt-br/training/browse/?terms=sc-300&resource_t
 GitHUB LABS
 Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/tree/master/Instructions/Labs
 
+# Administrador de identidades
+
+O administrador de identidades e acesso da Microsoft projeta, implementa e opera os sistemas de gerenciamento de identidades e acesso de uma organização usando o Microsoft Azure AD (Azure Active Directory), parte do Microsoft Entra. Eles configuram e gerenciam a autenticação e a autorização de identidades para usuários, dispositivos, recursos do Azure e aplicativos.
+
+O administrador de identidade e acesso fornece experiências perfeitas e funcionalidades de gerenciamento por autoatendimento para todos os usuários. Eles garantem que a identidade seja verificada explicitamente para dar suporte a princípios de Confiança Zero. Eles automatizam o gerenciamento de Azure AD usando o PowerShell e analisam eventos usando KQL (Linguagem de Consulta Kusto). Eles também são responsáveis pela solução de problemas, monitoramento e relatórios para o ambiente de identidade e acesso.
+
+O administrador de identidade e acesso colabora com muitas outras funções da organização para promover projetos de identidade estratégica a fim de modernizar soluções de identidade, implementar soluções de identidade híbrida e implementar a governança de identidade. Eles devem estar familiarizados com os serviços e cargas de trabalho do Azure e do Microsoft 365.
+
 # Habilidades medidas
 
 - Implementar identidades no Azure AD (20 – 25%)
