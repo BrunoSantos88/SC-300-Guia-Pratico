@@ -24,7 +24,9 @@ Você poderá configurar manualmente a maioria dos aplicativos para logon único
 # A lista a seguir é uma breve comparação dos vários protocolos usados pela plataforma de identidade da Microsoft.
 - OAuth versus OpenID Connect: 
 O OAuth é usado para autorização, e o OIDC (OpenID Connect) é usado para autenticação. O OpenID Connect é desenvolvido com base no OAuth 2.0, o que significa que a terminologia e o fluxo são semelhantes entre os dois. Você pode até mesmo autenticar um usuário usando o OpenID Connect e obter autorização para acessar um recurso protegido que o usuário possui usando o OAuth 2.0 em uma solicitação.
+
 - OAuth versus SAML: 
 O OAuth é usado para autorização e o SAML (Security Assertion Markup Language) é usado para autenticação.
+
 - OpenID Connect versus SAML: 
 O OpenID Connect e o SAML são usados para autenticar um usuário e para habilitar o logon único. A autenticação SAML é comumente usada com provedores de identidade, como os Serviços de Federação do Active Directory (AD FS), federados ao Azure AD e, portanto, é usada com frequência em aplicativos corporativos. O OpenID Connect é comumente usado para aplicativos puramente na nuvem, como aplicativos móveis, sites e APIs Web.
