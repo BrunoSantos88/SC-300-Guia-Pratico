@@ -81,3 +81,6 @@ Tokens OATH	Os tokens OATH podem ser aplicativos de software, como o aplicativo 
 Por fim, você deve decidir como os usuários registrarão seus métodos selecionados. A abordagem mais fácil é usar o Azure Active Directory Identity Protection. Se a sua organização tiver uma licença para o Identity Protection, você poderá configurá-lo para solicitar que os usuários se registrem no MFA na próxima vez em que entrarem.
 
 Você também pode solicitar que os usuários se registrem na MFA quando tentarem usar um aplicativo ou serviço que requeira a autenticação multifator. Por fim, você pode impor um registro usando a política de Acesso Condicional aplicada a um grupo do Azure que contém todos os usuários em sua organização. Essa abordagem requer algum trabalho manual para examinar periodicamente o grupo para remover usuários registrados. Há alguns scripts úteis na documentação para automatizar alguns desses processos.
+
+Exercicio MFA: </p>
+Link: https://learn.microsoft.com/pt-br/training/modules/secure-aad-users-with-mfa/4-exercise-mfa
