@@ -1,29 +1,52 @@
 # Microsoft SC-300
 
-Learnig PATH
-Link: https://learn.microsoft.com/pt-br/training/browse/?terms=sc-300&resource_type=learning%20path&roles=administrator&subjects=security
+Desafios GitHUb </p>
+Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_00_SetUpLabResources.md
 
-GitHUB LABS
-Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/tree/master/Instructions/Labs
+# Laboratório 01: Configuração do ambiente de laboratório
+cenário de laboratório
+Você precisa criar uma nova assinatura do Azure e solicitar uma licença do Azure AD P2 para estar pronto para concluir os próximos laboratórios.
 
-# Administrador de identidades
+# Laboratório 02: Gerenciar funções de usuário
+cenário de laboratório
+Sua empresa contratou recentemente um novo funcionário que desempenhará as funções de administrador do aplicativo. Você deve criar um novo usuário e atribuir a função apropriada.
 
-O administrador de identidades e acesso da Microsoft projeta, implementa e opera os sistemas de gerenciamento de identidades e acesso de uma organização usando o Microsoft Azure AD (Azure Active Directory), parte do Microsoft Entra. Eles configuram e gerenciam a autenticação e a autorização de identidades para usuários, dispositivos, recursos do Azure e aplicativos.
+Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_01_ManageUserRoles.md
 
-O administrador de identidade e acesso fornece experiências perfeitas e funcionalidades de gerenciamento por autoatendimento para todos os usuários. Eles garantem que a identidade seja verificada explicitamente para dar suporte a princípios de Confiança Zero. Eles automatizam o gerenciamento de Azure AD usando o PowerShell e analisam eventos usando KQL (Linguagem de Consulta Kusto). Eles também são responsáveis pela solução de problemas, monitoramento e relatórios para o ambiente de identidade e acesso.
+Laboratório 03: Trabalhando com propriedades de inquilinos
+cenário de laboratório
+Você precisa identificar e atualizar as diferentes propriedades associadas ao seu inquilino.
 
-O administrador de identidade e acesso colabora com muitas outras funções da organização para promover projetos de identidade estratégica a fim de modernizar soluções de identidade, implementar soluções de identidade híbrida e implementar a governança de identidade. Eles devem estar familiarizados com os serviços e cargas de trabalho do Azure e do Microsoft 365.
+Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_02_WorkingWithTenantProperties.md
 
-# Habilidades medidas
+Laboratório 04: Atribuição de licenças usando associação de grupo
+cenário de laboratório
+Sua organização decidiu usar grupos de segurança no Azure AD para gerenciar licenças. Você precisa configurar um novo grupo de segurança e atribuir uma licença a esse grupo e verificar se as licenças dos membros do grupo foram atualizadas.
 
-- Implementar identidades no Azure AD (20 – 25%)
-- Implementar gerenciamento de acesso e autenticação (25% – 30%)
-- Implementar o gerenciamento de acesso para aplicativos (15% – 20%)
-- Planejar e implementar a governança de identidade no Azure AD (20% – 25%)
+Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_03_AssignLicensesToUsersByGroupMembershipAAD.md
 
-# ROTEIRO DE APRENDIZAGEM
+Laboratório 05: Definir configurações de colaboração externa
+cenário de laboratório
+Você deve ativar as configurações de colaboração externa para sua organização para acesso de convidados aprovados.
 
-- SC-300: Implementar uma solução de gerenciamento de identidades
-- SC-300: Implementar uma solução de gerenciamento de acesso e autenticação
-- SC-300: Implementar o gerenciamento de acesso para aplicativos
-- SC-300: planejar e implementar uma estratégia de governança de identidade
+Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_04_ConfigureExternalCollaborationSettings.md
+
+Laboratório 06: Adicionar usuários convidados ao diretório
+cenário de laboratório
+Sua empresa trabalha com muitos fornecedores e, ocasionalmente, você precisa adicionar algumas contas de fornecedores ao seu diretório como convidado.
+
+Laboratório 07: Adicionar um provedor de identidade federado
+cenário de laboratório
+Sua empresa trabalha com muitos fornecedores e, ocasionalmente, você precisa adicionar algumas contas de fornecedores ao seu diretório como convidado e permitir que eles usem suas contas do Google para fazer login.
+
+Link:https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_06_AddFederatedIdentityProvider.md
+
+Laboratório 08: OPCIONAL --- Adicionar identidade híbrida com o Azure AD Connect
+Observação - este laboratório requer um Azure Pass. Consulte o laboratório 00 para obter instruções.
+
+Nota 2 - Este laboratório é intitulado Opcional. Leva pelo menos 1 hora para ser concluído e exige que você seja detalhado nas etapas do laboratório. Por favor, sinta-se à vontade para informá-lo conforme o tempo permitir. Se sua empresa já definiu sua configuração híbrida ou você não planeja usar o Azure AD Connect, pule este laboratório.
+
+cenário de laboratório
+Sua empresa trabalha com Active Directory Domain Services no local. Eles gostariam de continuar a usar o Active Directory local como sua solução de gerenciamento de identidade e acesso, mas também exigem que os usuários acessem aplicativos em nuvem com o mesmo nome de usuário e senha.
+
+Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_07_AddHybridIdentityWithAzureADConnect.md
