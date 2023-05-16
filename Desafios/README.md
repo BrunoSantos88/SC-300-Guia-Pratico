@@ -7,6 +7,8 @@ Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administra
 cenário de laboratório
 Você precisa criar uma nova assinatura do Azure e solicitar uma licença do Azure AD P2 para estar pronto para concluir os próximos laboratórios.
 
+Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_00_SetUpLabResources.md
+
 # Laboratório 02: Gerenciar funções de usuário
 cenário de laboratório
 Sua empresa contratou recentemente um novo funcionário que desempenhará as funções de administrador do aplicativo. Você deve criar um novo usuário e atribuir a função apropriada.
