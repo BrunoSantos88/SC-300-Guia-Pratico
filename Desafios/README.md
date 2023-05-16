@@ -168,19 +168,19 @@ Você pode selecionar o que acontece quando um usuário externo, que foi convida
 
 Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_24_ManageTheLifecycleOfExternalUsersInAADIdentityGovernanceSettings%20.md
 
-Laboratório 25 - Criando revisões de acesso para usuários internos e externos
+# Laboratório 25 - Criando revisões de acesso para usuários internos e externos
 cenário de laboratório
 O acesso privilegiado do usuário deve ser regularmente revisado de maneira semelhante. Como essas são atribuições de acesso elevado, a revisão delas deve ser feita de forma consistente, conforme identificado pela empresa. Atribuições privilegiadas não utilizadas e desnecessárias devem ser removidas. A remoção automática também deve ser configurada para usuários que não estão mais na empresa ou mudaram de departamento dentro da empresa.
 
 LInk: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_25_CreatingAccessReviewsForUsers.md
 
-Laboratório 26: Configurar Privileged Identity Management para funções do Azure AD
+# Laboratório 26: Configurar Privileged Identity Management para funções do Azure AD
 cenário de laboratório
 Um administrador de função privilegiada pode personalizar Privileged Identity Management (PIM) em sua organização do Azure Active Directory (Azure AD), incluindo alterar a experiência de um usuário que está ativando uma atribuição de função elegível. Você deve se familiarizar com a configuração do PIM.
 
 Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_26_ConfigurePrivilegedIdentityManagementForAADRoles.md
 
-Laboratório 27 - Consultas do Microsoft Sentinel Kusto para fontes de dados do Azure AD
+# Laboratório 27 - Consultas do Microsoft Sentinel Kusto para fontes de dados do Azure AD
 Observação - este laboratório requer um Azure Pass. Consulte o laboratório 00 para obter instruções.
 
 cenário de laboratório
@@ -188,7 +188,7 @@ O Microsoft Sentinel é a solução SIEM e SOAR nativa da nuvem da Microsoft. At
 
 Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_27_MicrosoftSentinelKustoQueries.md
 
-Laboratório 28 - Monitore e gerencie a postura de segurança com o Identity Secure Score
+# Laboratório 28 - Monitore e gerencie a postura de segurança com o Identity Secure Score
 cenário de laboratório
 O Azure AD Identity Protection fornece detecção e correção automatizadas para riscos baseados em identidade e fornece dados no portal para investigar possíveis riscos. A proteção de identidade do Azure AD também fornece uma pontuação segura de identidade para monitorar e melhorar sua postura de segurança de identidade. Da mesma forma que o Microsoft 365 Defender e o Microsoft Defender for Cloud, o Identity Secure Score fornece ações e recomendações de melhoria que podem melhorar sua postura geral de segurança para identidade no Azure Active Directory. Este laboratório explorará esse recurso.
 
