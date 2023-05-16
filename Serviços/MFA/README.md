@@ -1,29 +1,41 @@
-# Microsoft SC-300
+# O que é a Autenticação Multifator do Azure AD?
 
-Learnig PATH
-Link: https://learn.microsoft.com/pt-br/training/browse/?terms=sc-300&resource_type=learning%20path&roles=administrator&subjects=security
+- Proteger seus ativos de nuvem é uma das principais metas dos grupos de segurança. Uma das principais maneiras pelas quais os usuários não autorizados obtêm acesso a sistemas é obter uma combinação válida de nome de usuário/senha. O Azure pode ajudar a atenuar isso com vários recursos do Azure Active Directory, incluindo:
 
-GitHUB LABS
-Link: https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/tree/master/Instructions/Labs
+- Regras de complexidade de senha: forçam os usuários a gerar senhas difíceis de adivinhar.
 
-# Administrador de identidades
+- Regras de expiração de senha: você pode forçar os usuários a alterar suas senhas periodicamente (e evitar usar senhas usadas anteriormente).
 
-O administrador de identidades e acesso da Microsoft projeta, implementa e opera os sistemas de gerenciamento de identidades e acesso de uma organização usando o Microsoft Azure AD (Azure Active Directory), parte do Microsoft Entra. Eles configuram e gerenciam a autenticação e a autorização de identidades para usuários, dispositivos, recursos do Azure e aplicativos.
+- SSPR (redefinição de senha self-service): permite que os usuários realizem autoatendimento e redefinam sua senha caso tenham a tenham esquecido sem envolver um departamento de TI.
 
-O administrador de identidade e acesso fornece experiências perfeitas e funcionalidades de gerenciamento por autoatendimento para todos os usuários. Eles garantem que a identidade seja verificada explicitamente para dar suporte a princípios de Confiança Zero. Eles automatizam o gerenciamento de Azure AD usando o PowerShell e analisam eventos usando KQL (Linguagem de Consulta Kusto). Eles também são responsáveis pela solução de problemas, monitoramento e relatórios para o ambiente de identidade e acesso.
+- Azure AD Identity Protection: Para ajudar a proteger as identidades da organização, você pode configurar políticas de risco que respondem automaticamente a comportamentos de risco. Essas políticas podem bloquear os comportamentos ou iniciar a correção automaticamente, incluindo a exigência de alterações de senha.
 
-O administrador de identidade e acesso colabora com muitas outras funções da organização para promover projetos de identidade estratégica a fim de modernizar soluções de identidade, implementar soluções de identidade híbrida e implementar a governança de identidade. Eles devem estar familiarizados com os serviços e cargas de trabalho do Azure e do Microsoft 365.
+- Proteção de senha do Azure AD: você pode bloquear senhas comumente usadas e comprometidas por meio de uma lista de senhas proibidas globalmente.
 
-# Habilidades medidas
+- Bloqueio inteligente do Azure AD: O bloqueio inteligente ajuda a bloquear hackers mal-intencionados que estão tentando adivinhar as senhas dos seus usuários ou usam métodos de força bruta para entrar. Ele reconhece entradas provenientes de usuários válidos e as trata diferente daquelas de hackers mal-intencionados e outras fontes desconhecidas.
 
-- Implementar identidades no Azure AD (20 – 25%)
-- Implementar gerenciamento de acesso e autenticação (25% – 30%)
-- Implementar o gerenciamento de acesso para aplicativos (15% – 20%)
-- Planejar e implementar a governança de identidade no Azure AD (20% – 25%)
+- Proxy de Aplicativo do Azure AD: Você pode provisionar o acesso remoto com segurança avançada para aplicativos Web locais.
 
-# ROTEIRO DE APRENDIZAGEM
+- SSO (logon único): você pode habilitar o acesso SSO aos seus aplicativos. Isso inclui milhares de aplicativos SaaS previamente integrados.
 
-- SC-300: Implementar uma solução de gerenciamento de identidades
-- SC-300: Implementar uma solução de gerenciamento de acesso e autenticação
-- SC-300: Implementar o gerenciamento de acesso para aplicativos
-- SC-300: planejar e implementar uma estratégia de governança de identidade
+- Azure AD Connect: Crie e gerencie uma identidade única para cada usuário em sua empresa híbrida, mantendo usuários, grupos e dispositivos em sincronia.
+
+# O que é o MFA do Azure AD?
+O MFA (Autenticação Multifator) do Azure AD fornece maior segurança para as suas identidades exigindo dois ou mais elementos para autenticação completa.
+
+Esses elementos se enquadram em três categorias:
+
+- Algo que você sabe, que pode ser uma senha ou a resposta a uma pergunta de segurança.
+- Algo que você tem, que pode ser um aplicativo móvel que recebe uma notificação ou um dispositivo de geração de token.
+- Algo que você é – que normalmente é uma propriedade biométrica, como uma impressão digital ou verificação de detecção facial usada em muitos dispositivos móveis.
+
+
+# Como obter a Autenticação Multifator?
+A Autenticação Multifator é fornecida como parte das seguintes ofertas:
+
+- Azure Active Directory Premium ou Microsoft 365 Business: essas duas ofertas dão suporte à Autenticação Multifator do Azure AD usando padrões de segurança para exigir a autenticação multifator.
+
+- Licenças do Azure AD Gratuito ou do Microsoft 365 autônomo: ambos usam padrões de segurança que exigem a autenticação multifator para seus usuários e administradores.
+
+- Administradores Globais do Azure Active Directory: um subconjunto das funcionalidades de Autenticação Multifator do Azure AD está disponível como um meio para proteger as contas de administrador global.
+
