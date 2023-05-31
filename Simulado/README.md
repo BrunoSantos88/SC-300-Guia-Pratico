@@ -8,6 +8,9 @@ Tentativas Microsoft Person Vue </p>
 2° 661 pontos </p>
 3° 640 Pontos </p>
 
+
+# Perguntas com duvidas 
+
 # Pergunta 1
 
 Você tem um locatário do Azure Active Directory (Azure AD).
