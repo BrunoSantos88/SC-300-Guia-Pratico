@@ -1,5 +1,8 @@
 # Simulado SC-300
 
+Duvidas usar Simualado Exem Poster </p>
+Link: https://examposter.com/microsoft/sc-300-microsoft-identity-and-access-administrator/
+
 # Pergunta 1
 
 Você tem um locatário do Azure Active Directory (Azure AD).
