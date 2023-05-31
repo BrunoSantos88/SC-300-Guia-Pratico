@@ -3,7 +3,7 @@
 Duvidas usar Simualado Exem Poster </p>
 Link: https://examposter.com/microsoft/sc-300-microsoft-identity-and-access-administrator/
 
-Tentativas Microsoft </p>
+Tentativas Microsoft Person Vue </p>
 1° 500 pontos </p>
 2° 661 pontos </p>
 3° 640 Pontos </p>
