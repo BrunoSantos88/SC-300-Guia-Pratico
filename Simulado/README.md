@@ -1,3 +1,7 @@
+# Simulado Microsoft 
+
+https://learn.microsoft.com/pt-br/credentials/certifications/exams/sc-300/practice/assessment?assessmentId=60&assessment-type=practice
+
 # Simulado SC-300
 
 Duvidas usar Simualado Exem Poster </p>
